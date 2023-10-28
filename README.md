@@ -116,6 +116,8 @@ _It is simple_
 - The counter will increment till the value 10. Once it reaches the value 10, it returns back to value 0 and the counter value is decremented only till 0.
 - Now my counter project is ready 🎉
 
+> Click [here](https://github.com/edsondsouza/counter-hooks-practice/blob/main/src/App.jsx) to see the final code. 
+
 # Setup the repo in your local environment
 - Clone the repo
   ``` 
